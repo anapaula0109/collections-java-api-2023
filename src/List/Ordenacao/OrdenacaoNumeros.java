@@ -1,4 +1,4 @@
-package List.Ordenação;
+package List.Ordenacao;
 
 public class OrdenacaoNumeros {
 }
